@@ -16,7 +16,7 @@ d = {1, 2, 3, 3}   # set - unique values
 print(d)
 print(*d)
 
-e = {1: 'one', 2: 'two'}    # dist
+e = {1: 'one', 2: 'two'}    # dict
 print(e)
 print(*e)
 print(e[1])
